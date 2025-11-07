@@ -1,0 +1,9 @@
+flask
+flask-cors
+tensorflow
+librosa
+scikit-learn
+numpy
+pandas
+pydub
+ffmpeg-python
